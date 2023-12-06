@@ -8,7 +8,7 @@ O nosso principal objetivo é **[descrever brevemente o problema ou desafio que 
 
 ## Funcionalidades
 
-- [Recursos principais do projeto relacionados à IA]
+- velocidade e smartdoc
 - [Recursos principais do projeto relacionados à Ciência de Dados]
 - [Possivelmente, integração de algoritmos de IA com análise de dados]
 
